@@ -4,10 +4,5 @@
 - 📫 How to reach me: Instagram: @coding_zone_ and @hackerlaksh22
 
 - Languages I know:
-1. HTML
-2. CSS
-3. Javascript
-4. Python
-5. C
-6. PHP
+HTML , CSS , Javascript , Python , c , c++ , php , sql 
 
