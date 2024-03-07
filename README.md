@@ -1,11 +1,37 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi there! 👋 I'm Lakshya Bhawsar 🚀</h2>
 
-###
+<h3>19-year-old | Community Builder | Online Brand Architect</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p>I'm on a mission to blend technology and creativity to craft captivating online experiences. Whether it's designing interactive websites, managing vibrant Discord communities, or curating engaging social media content, I thrive on building impactful digital spaces.</p>
+
+<h3>Expertise</h3>
+
+
+   <ul>
+        <li>
+            <strong>Discord Server Management:</strong> I specialize in fostering thriving communities and forging meaningful connections.
+        </li>
+        <li>
+            <strong>Website Design & Development:</strong> Creating visually stunning and user-friendly websites is my forte.
+        </li>
+        <li>
+            <strong>Social Media Management:</strong> I excel in growing brands and fostering engagement through strategic content curation.
+        </li>
+        <li>
+            <strong>Graphic Design:</strong> Crafting visuals that narrate stories and evoke emotions is where I shine.
+        </li>
+        <li>
+            <strong>Video Editing:</strong> Transforming raw footage into compelling narratives is one of my passions.
+        </li>
+        <li>
+            <strong>Custom Chatbot Design:</strong> I love personalizing interactions with innovative chatbot solutions.
+        </li>
+    </ul>
+    <p>
+        Let's connect and collaborate! Whether it's networking, project partnerships, or tech-driven discussions, I'm all ears. Reach out and let's make magic happen! ✨
+    </p>
+
+
 
 ###
 
@@ -14,20 +40,20 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.simplihire.com/wp-content/uploads/2023/09/ux-ui-logo.png" height="30" alt="UI/UX logo" />
 </div>
+
+
 
 ###
 
@@ -44,6 +70,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
