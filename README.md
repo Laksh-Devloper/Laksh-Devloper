@@ -4,7 +4,6 @@
 
 <p>I'm on a mission to blend technology and creativity to craft captivating online experiences. Whether it's designing interactive websites, managing vibrant Discord communities, or curating engaging social media content, I thrive on building impactful digital spaces.</p>
 
-<a href="https://laksh-devloper-portfolio.webflow.io/"><h3> Portfolio </h3></a>
 <h3>Expertise</h3>
 
 
@@ -63,6 +62,7 @@
   <a href="https://discord.gg/MWFH2N9FR8"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" /></a>
   <a href="mailto:lakshyabhawsar1722@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
   <a href="https://www.linkedin.com/in/lakshya-bhawsar/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+    <a href="https://laksh-devloper-portfolio.webflow.io/"><img src="https://img.shields.io/badge/Portfolio%20-8A2BE2 height="35" alt="LinkedIn logo" /></a>
 </div>
 
 
