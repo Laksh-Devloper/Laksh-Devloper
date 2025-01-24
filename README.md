@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! 👋 I'm Lakshya Bhawsar 🚀</h2>
 
-<h3>19-year-old | Community Builder | Online Brand Architect</h3>     <a href="https://laksh-devloper-portfolio.webflow.io/"><img src="https://img.shields.io/badge/Portfolio%20-8A2BE2 height="35" alt="Portfolio" /></a>
+<h3> Community Builder | Online Brand Architect</h3>     <a href="https://laksh-devloper-portfolio.webflow.io/"><img src="https://img.shields.io/badge/Portfolio%20-8A2BE2 height="35" alt="Portfolio" /></a>
 
 <p>I'm on a mission to blend technology and creativity to craft captivating online experiences. Whether it's designing interactive websites, managing vibrant Discord communities, or curating engaging social media content, I thrive on building impactful digital spaces.</p>
 
