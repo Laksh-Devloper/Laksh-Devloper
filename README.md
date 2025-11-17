@@ -1,37 +1,43 @@
 <h2 align="left">Hi there! 👋 I'm Lakshya Bhawsar 🚀</h2>
 
-<h3> Community Builder | Online Brand Architect</h3>     <a href="https://laksh-devloper-portfolio.webflow.io/"><img src="https://img.shields.io/badge/Portfolio%20-8A2BE2 height="35" alt="Portfolio" /></a>
+<h3>AI & Full-Stack Developer | Creative Web Engineer</h3>
 
-<p>I'm on a mission to blend technology and creativity to craft captivating online experiences. Whether it's designing interactive websites, managing vibrant Discord communities, or curating engaging social media content, I thrive on building impactful digital spaces.</p>
+<a href="https://laksh-devloper-portfolio.webflow.io/">
+  <img src="https://img.shields.io/badge/Portfolio%20-8A2BE2" height="35" alt="Portfolio" />
+</a>
+
+<p>
+I'm a developer passionate about building intelligent digital experiences — from AI-powered systems and machine learning models to smooth, modern web apps.  
+I love blending creativity with engineering: designing 3D interactions, crafting clean interfaces, and developing backend architectures that scale with purpose.
+</p>
 
 <h3>Expertise</h3>
 
+<ul>
+  <li>
+    <strong>AI & Machine Learning:</strong> Building ML models, experimenting with GenAI, and creating practical AI assistants.
+  </li>
+  <li>
+    <strong>Full-Stack Development:</strong> Django-powered backends, responsive frontends, and end-to-end product development.
+  </li>
+  <li>
+    <strong>Creative Web Engineering:</strong> Crafting immersive websites using Three.js, GSAP, Spline, and interactive UI/UX.
+  </li>
+  <li>
+    <strong>Data & Analytics:</strong> Working with Python, Pandas, NumPy, Scikit-Learn to bring insights to life.
+  </li>
+  <li>
+    <strong>3D & Visual Design:</strong> Blending visuals, animations, and user-centric design to build memorable experiences.
+  </li>
+  <li>
+    <strong>Chatbot & Automation:</strong> Integrating AI models (Gemini/OpenAI) into real-world apps and workflows.
+  </li>
+</ul>
 
-   <ul>
-        <li>
-            <strong>Discord Server Management:</strong> I specialize in fostering thriving communities and forging meaningful connections.
-        </li>
-        <li>
-            <strong>Website Design & Development:</strong> Creating visually stunning and user-friendly websites is my forte.
-        </li>
-        <li>
-            <strong>Social Media Management:</strong> I excel in growing brands and fostering engagement through strategic content curation.
-        </li>
-        <li>
-            <strong>Graphic Design:</strong> Crafting visuals that narrate stories and evoke emotions is where I shine.
-        </li>
-        <li>
-            <strong>Video Editing:</strong> Transforming raw footage into compelling narratives is one of my passions.
-        </li>
-        <li>
-            <strong>Custom Chatbot Design:</strong> I love personalizing interactions with innovative chatbot solutions.
-        </li>
-    </ul>
-    <p>
-        Let's connect and collaborate! Whether it's networking, project partnerships, or tech-driven discussions, I'm all ears. Reach out and let's make magic happen! ✨
-    </p>
-
-
+<p>
+If you're into AI, web engineering, or creative tech — let's connect.  
+Always open to collaborations, ideas, and building something impactful together! ✨
+</p>
 
 ###
 
@@ -53,22 +59,21 @@
   <img src="https://www.simplihire.com/wp-content/uploads/2023/09/ux-ui-logo.png" height="30" alt="UI/UX logo" />
 </div>
 
-
-
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/lakshh._.22/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-  <a href="https://discord.gg/MWFH2N9FR8"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" /></a>
-  <a href="mailto:lakshyabhawsar1722@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/lakshya-bhawsar/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
-
+  <a href="https://www.instagram.com/lakshh._.22/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="https://discord.gg/MWFH2N9FR8">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </a>
+  <a href="mailto:lakshyabhawsar1722@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakshya-bhawsar/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
 
-
-###
-
 <br clear="both">
-
-
-###
